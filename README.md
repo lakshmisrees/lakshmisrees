@@ -81,7 +81,7 @@ I enjoy building scalable web applications and continuously improving problem-so
 
 ---
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/lakshmisrees?theme=light&font=baloo&ext=contest" />
 </p>
 ---
 <p align="center">
