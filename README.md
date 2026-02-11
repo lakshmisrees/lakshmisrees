@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.E. Computer Science Engineering  
-- 💻 Focused on Full Stack Development (MERN)  
+- 💻 Focused on Full Stack Development  
 - 📚 Actively practicing Data Structures & Algorithms  
 - 🎨 Interested in UI/UX and system design  
 - 📍 Chennai, India  
