@@ -23,5 +23,5 @@ Platform helping urban residents grow plants with expert tips and community foru
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (add professional email)
+- LinkedIn: https://bit.ly/lakshmisree-linkedin
+- Email: imlakshmisree@gmail.com
