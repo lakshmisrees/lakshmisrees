@@ -46,8 +46,6 @@ I enjoy building scalable web applications and continuously improving problem-so
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisrees&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisrees&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakshmisrees&show_icons=true" />
 </p>
 
@@ -57,14 +55,6 @@ I enjoy building scalable web applications and continuously improving problem-so
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lakshmisrees&theme=default&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshmisrees&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
