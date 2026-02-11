@@ -1,6 +1,6 @@
 <!-- Elegant Professional Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:374151&height=110&section=header&text=Lakshmi%20Sree&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:434343,100:000000&height=110&section=header&text=Lakshmi%20Sree&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
