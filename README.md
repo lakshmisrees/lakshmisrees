@@ -80,6 +80,9 @@ I enjoy building scalable web applications and continuously improving problem-so
   <a href="https://www.instagram.com/lakshmiillustrations?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://wa.me/919940514254">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
 </p>
 
 ---
