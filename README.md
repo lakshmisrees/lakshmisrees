@@ -85,3 +85,7 @@ Focused on mastering Data Structures and Algorithms to build strong analytical a
 <p align="center">
   <i>“Consistency builds mastery.”</i>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</p>
+
