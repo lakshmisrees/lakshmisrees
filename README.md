@@ -43,8 +43,8 @@ Animal adoption and welfare support platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisrees&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisrees&layout=compact&theme=radical&border_radius=10" height="165"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Animal adoption and welfare support platform.
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=lakshmisrees&theme=radical&border_radius=10" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Animal adoption and welfare support platform.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshmisrees&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -82,6 +82,9 @@ Animal adoption and welfare support platform.
   <a href="mailto:imlakshmisree@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://bit.ly/lakshmisree-leetcode">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
 ---
@@ -89,7 +92,7 @@ Animal adoption and welfare support platform.
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lakshmisrees&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
