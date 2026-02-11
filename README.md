@@ -37,7 +37,7 @@ I enjoy building scalable web applications and continuously improving problem-so
 
 ## 🧠 Problem Solving
 
-<p align="">center
+<p align="center">
   <a href="https://leetcode.com/lakshmisrees/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
