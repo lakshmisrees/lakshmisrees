@@ -48,6 +48,7 @@ I enjoy building scalable web applications and continuously improving problem-so
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshmisrees&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisrees&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakshmisrees&show_icons=true" />
 </p>
 
 ---
