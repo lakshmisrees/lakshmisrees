@@ -31,6 +31,9 @@ I enjoy building scalable web applications and continuously improving problem-so
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,java,python" />
+  <p align="center">
+Crafting clean, maintainable, and impactful digital experiences using the MERN stack and modern development tools.
+</p>
 </p>
 
 ---
@@ -41,6 +44,10 @@ I enjoy building scalable web applications and continuously improving problem-so
   <a href="https://leetcode.com/lakshmisrees/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <p align="center">
+Focused on mastering Data Structures and Algorithms to build strong analytical and optimization skills.
+</p>
+
 </p>
 
 ---
