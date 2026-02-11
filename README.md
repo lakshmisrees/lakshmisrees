@@ -27,15 +27,15 @@ I enjoy building scalable web applications and continuously improving problem-so
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,java,sql,python" />
 </p>
 
 ---
 
 ## 🧠 Problem Solving
 
-<p align="left">
+<p align="">center
   <a href="https://leetcode.com/lakshmisrees/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
@@ -61,7 +61,7 @@ I enjoy building scalable web applications and continuously improving problem-so
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://bit.ly/lakshmisree-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
