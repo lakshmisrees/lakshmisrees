@@ -1,67 +1,110 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Sree</h1>
-<h3 align="center">Final Year CSE Student | Aspiring MERN Stack Developer | UI/UX Enthusiast</h3>
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lakshmi%20Sree&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F78DB3&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+MERN+Stack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Final Year B.E. Computer Science Student  
-💡 Passionate about building full-stack web applications  
-🎯 Currently focused on mastering the MERN Stack  
+🎓 Final Year B.E. Computer Science Engineering Student  
+💡 Passionate about Full Stack Web Development  
+🚀 Currently mastering the MERN Stack  
+🎨 Strong interest in UI/UX Design  
 📍 Chennai, India  
 
-I enjoy transforming ideas into responsive, user-friendly applications with clean UI and scalable backend architecture.
+I love building modern, responsive and scalable applications that create meaningful digital experiences.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-
-### 🖥 Backend
-- Node.js
-- Express.js
-
-### 🗄 Database
-- MongoDB
-- MySQL
-
-### 🛠 Tools
-- Git & GitHub
-- VS Code
-- Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 Urban Roots
-A web platform that helps urban residents grow plants with expert tips, forums, and event updates.
+### 🔹 CraftNest  
+Modern React-based handmade products website with responsive UI and elegant design.
 
-**Tech Used:** HTML, CSS, JavaScript, PHP, MySQL  
+### 🔹 Urban Roots  
+Plant-growing platform with expert tips, forums and event updates.
 
----
-
-### 🔹 Pawtopias
-A platform connecting animal lovers with adoption resources, volunteering opportunities, and welfare support.
-
-**Tech Used:** Full-stack web technologies  
+### 🔹 Pawtopias  
+Animal adoption and welfare support platform.
 
 ---
 
-## 📈 Current Goals
+## 📊 GitHub Stats
 
-- 🔥 Build advanced MERN stack projects  
-- 📚 Improve DSA & problem-solving  
-- 🚀 Get placed in a product-based company  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10" height="165"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Building today to create better digital experiences tomorrow."</i>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 - 💼 LinkedIn: https://bit.ly/lakshmisree-linkedin
 - 📧 Email: imlakshmisree@gmail.com
