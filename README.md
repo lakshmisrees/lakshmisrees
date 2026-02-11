@@ -77,6 +77,9 @@ I enjoy building scalable web applications and continuously improving problem-so
   <a href="mailto:imlakshmisree@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://www.instagram.com/lakshmiillustrations?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
