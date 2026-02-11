@@ -77,6 +77,9 @@ I enjoy building scalable web applications and continuously improving problem-so
   <a href="mailto:imlakshmisree@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://instagram.com/lakshmiillustrations">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://wa.me/919940514254">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
