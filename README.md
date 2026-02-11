@@ -28,7 +28,8 @@ I enjoy building scalable web applications and continuously improving problem-so
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,java,sql,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,java,sql,python" />
 </p>
 
 ---
