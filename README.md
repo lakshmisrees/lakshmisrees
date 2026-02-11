@@ -32,9 +32,6 @@ I love building modern, responsive and scalable applications that create meaning
 
 ## 🌟 Featured Projects
 
-### 🔹 CraftNest  
-Modern React-based handmade products website with responsive UI and elegant design.
-
 ### 🔹 Urban Roots  
 Plant-growing platform with expert tips, forums and event updates.
 
@@ -79,10 +76,10 @@ Animal adoption and welfare support platform.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://bit.ly/lakshmisree-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:imlakshmisree@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -106,5 +103,3 @@ Animal adoption and welfare support platform.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
-- 💼 LinkedIn: https://bit.ly/lakshmisree-linkedin
-- 📧 Email: imlakshmisree@gmail.com
