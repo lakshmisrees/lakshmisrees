@@ -1,14 +1,6 @@
 <!-- Elegant Professional Header -->
-<h1 align="center">
-  <span style="color:#6C63FF;">Lakshmi Sree</span>
-</h1>
-
 <p align="center">
-  <b>MERN Stack Developer • UI/UX Enthusiast • Final Year CSE</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Focused+on+Clean+Architecture;Consistent+DSA+Practice" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Lakshmi%20Sree&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 </p>
 
 ---
