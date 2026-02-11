@@ -1,108 +1,89 @@
-<!-- Gradient Banner -->
+<!-- Elegant Professional Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lakshmi%20Sree&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:374151&height=110&section=header&text=Lakshmi%20Sree&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F78DB3&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Aspiring+MERN+Stack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps;Future+Software+Engineer" />
+  <b>MERN Stack Developer • UI/UX Enthusiast • Final Year CSE</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=6B7280&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Focused+on+Clean+Architecture;Consistent+DSA+Practice;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Final Year B.E. Computer Science Engineering Student  
-💡 Passionate about Full Stack Web Development  
-🚀 Currently mastering the MERN Stack  
-🎨 Strong interest in UI/UX Design  
-📍 Chennai, India  
+- 🎓 Final Year B.E. Computer Science Engineering  
+- 💻 Focused on Full Stack Development (MERN)  
+- 📚 Actively practicing Data Structures & Algorithms  
+- 🎨 Interested in UI/UX and system design  
+- 📍 Chennai, India  
 
-I love building modern, responsive and scalable applications that create meaningful digital experiences.
+I enjoy building scalable web applications and continuously improving problem-solving skills.
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Problem Solving
 
-### 🔹 Urban Roots  
-Plant-growing platform with expert tips, forums and event updates.
-
-### 🔹 Pawtopias  
-Animal adoption and welfare support platform.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisrees&show_icons=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisrees&layout=compact&theme=radical&border_radius=10" height="165"/>
+<p align="left">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lakshmisrees&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisrees&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisrees&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshmisrees&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://streak-stats.demolab.com?user=lakshmisrees&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshmisrees&theme=flat&no-frame=true&margin-w=8" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://bit.ly/lakshmisree-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:imlakshmisree@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://bit.ly/lakshmisree-leetcode">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
 </p>
 
 ---
-
-## 👀 Profile Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshmisrees&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=baloo&ext=contest" />
 </p>
-
 ---
-
 <p align="center">
-  ⭐ <i>"Building today to create better digital experiences tomorrow."</i>
+  <i>“Consistency builds mastery.”</i>
 </p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
